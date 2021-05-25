@@ -19,12 +19,13 @@
 
 
 ### Project Charter
- 
+ [Link to the project charter](https://github.com/akhilmallepally/pm-s03-g02-project/tree/main/charter_files.charter.md)
 
 ### Scope
- 
+ [Find the Gantt chart here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/scope/scope.mpp)
 
 ### Schedule
  
 
 ### Budget
+[Find the budget here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/budget/budget.xlsx)
