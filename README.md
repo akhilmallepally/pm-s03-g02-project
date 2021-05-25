@@ -13,7 +13,8 @@
 * 
 
 ### Our Team
- 
+ ![alt text](\Images\CHANDRA BHANU.jpg "CHANDRA BHANU TATA")
+
 
 ### Project Charter
  
