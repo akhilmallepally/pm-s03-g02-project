@@ -26,7 +26,9 @@
 
 ### Schedule
  Start Date : 08/22/2021
+ 
  End Date : 12/07/2021
+ 
  Duration : 14 Weeks
 ### Budget
 [Find the budget here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/budget/budget.xlsx)
