@@ -1,12 +1,12 @@
 # pm-s03-g02-project
 
 ### Table of contents
-  * Our Project
-  * Our Team
-  * Project Charter
-  * Scope
-  * Schedule
-  * Budget
+  * [Our Project](https://github.com/akhilmallepally/pm-s03-g02-project#our-project)
+  * [Our Team](https://github.com/akhilmallepally/pm-s03-g02-project#our-team)
+  * [Project Charter](https://github.com/akhilmallepally/pm-s03-g02-project#project-charter)
+  * [Scope](https://github.com/akhilmallepally/pm-s03-g02-project#scope)
+  * [Schedule](https://github.com/akhilmallepally/pm-s03-g02-project#schedule)
+  * [Budget](https://github.com/akhilmallepally/pm-s03-g02-project#budget)
 
 ### Our Project
 * 
