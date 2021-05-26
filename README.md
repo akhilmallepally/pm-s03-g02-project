@@ -23,7 +23,7 @@
 
 <img src="/Images/chandra_bhanu.jpg" alt="chandra" height= "200" width="200"/> 
 
-[Tata Chandra Bhanu](https://github.com/akhilmallepally/)
+[Tata Chandra Bhanu](https://github.com/tata1141/)
 
 <img src="/Images/sai_enugula.jpg" alt="sai" height= "200" width="200"/>
 
