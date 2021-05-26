@@ -18,12 +18,19 @@
 
 
 <img src="/Images/akhil_mallepally.JPG" alt="akhil" height= "200" width="200"/> 
+
 [Akhil Mallepally](https://github.com/akhilmallepally/)
+
 <img src="/Images/chandra_bhanu.jpg" alt="chandra" height= "200" width="200"/> 
+
 [Tata Chandra Bhanu](https://github.com/akhilmallepally/)  
-<img src="/Images/sai_enugula.jpg" alt="sai" height= "200" width="200"/> 
+
+<img src="/Images/sai_enugula.jpg" alt="sai" height= "200" width="200"/>
+
 [Sai kiran Enugala](https://github.com/saikiranreddyenugala/) 
+
 <img src="/Images/subash_nethra.jpg" alt="subhash" height= "200" width="200"/>
+
  [Subhash Nethra](https://github.com/akhilmallepally/)
 
 
