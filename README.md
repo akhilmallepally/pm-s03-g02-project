@@ -10,7 +10,9 @@
 
 ### Our Project
 * Campus Management System
-* 
+* We are developing a web application which helps the students, faculty to get all the campus resources into one application.
+
+  This app contains the user login page. an admin page and inner pages which displays the requirements that students and faculty can get from the campus resources.
 
 ### Our Team
 
