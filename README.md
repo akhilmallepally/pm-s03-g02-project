@@ -34,7 +34,7 @@
  Duration : 14 Weeks
 ### Budget
 Total project value is $60,000 <br>
-Total project cost is $35,000 <br>
-Estimated profits is $25,000 <br>
+Total project cost is $38,000 <br>
+Estimated profits is $22,000 <br>
 
 [Find the budget here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/budget/budget.xlsx)
