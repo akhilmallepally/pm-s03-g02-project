@@ -98,4 +98,4 @@ Estimated profits is $18,480 <br>
 
 ![Budget](/budget/img.PNG)
 
-[Find the budget here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/budget/budget.xlsx)
+[Find the detailed budget here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/budget/budget.xlsx)
