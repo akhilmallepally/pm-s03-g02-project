@@ -33,14 +33,57 @@
  [Link to the project charter](https://github.com/akhilmallepally/pm-s03-g02-project/tree/main/charter_files.charter.md)
 
 ### Scope
- [Find the Gantt chart here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/scope/scope.mpp)
+
+#### Work Breakdown Structure
+
+#### 1. Intiating
+ * 1.1 Identify Stakeholders
+ * 1.2 Defining objectives
+ * 1.3 Developing project charter
+ * 1.4 Taking approval for project charter
+ * 1.5 Selecting the team
+ * 1.6 Presenting the objectives to the team
+ 
+#### 2. Planning 
+ * 2.1 developing project plans
+ * 2.2 Getting approval for project plan
+ * 2.3 Designing the budget
+ * 2.4 writing timelines
+ * 2.5 Getting approval for budget 
+ * 2.6 Develop the scope statement  
+ * 2.7 Approval of all the plans
+ 
+#### 3. Execution
+  * 3.1 Gather Requirements
+  * 3.2 Gather required hardware and software
+  * 3.3 Set up the work environment
+  * 3.4 Designing the template of the web app
+  * 3.5 Getting approval for the template
+  * 3.5 Developing front end
+  * 3.6 Developing back end
+  * 3.7 Connecting the database
+  * 3.8 Testing
+  * 3.9 Running security checks
+  * 3.10 Hosting the web app
+
+#### 4. Monitoring and Controlling
+  * 4.1 Checking for issues
+  * 4.2 QA Testing
+  * 4.3 Evaluation
+  
+#### 5. Closing
+  * 5.1 Review, Feedback and Appreciation
+  * 5.2 Project Completion
+ 
+ [Find the WBS sheet here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/scope/wbs.mpp)
 
 ### Schedule
- Start Date : 08/22/2021
+ Start Date : 08/18/2021
  
- End Date : 12/07/2021
+ End Date : 12/31/2021
  
- Duration : 14 Weeks
+ Duration : 19 Weeks
+ 
 ### Budget
 Total project value is $60,000 <br>
 Total project cost is $38,000 <br>
