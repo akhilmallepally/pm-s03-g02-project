@@ -31,7 +31,7 @@
 
 <img src="/Images/subash_nethra.jpg" alt="subhash" height= "200" width="200"/>
 
- [Subhash Nethra](https://github.com/akhilmallepally/)
+[Subhash Nethra](https://github.com/Subhas19/)
 
 
 
