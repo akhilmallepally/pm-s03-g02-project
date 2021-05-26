@@ -89,6 +89,8 @@
  
  Duration : 19 Weeks
  
+ [Find the detailed schedule here](schedule.mpp)
+ 
 ### Budget
 Total project value is $70,000 <br>
 Total project cost is $51,520 <br>
