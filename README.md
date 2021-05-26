@@ -85,9 +85,9 @@
 ### Schedule
  Start Date : 08/18/2021
  
- End Date : 12/31/2021
+ End Date : 11/24/2021
  
- Duration : 19 Weeks
+ Duration : 14 Weeks
  
  [Find the detailed schedule here](schedule.mpp)
  
