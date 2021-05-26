@@ -34,10 +34,8 @@
 [Subhash Nethra](https://github.com/Subhas19/)
 
 
-
-
 ### Project Charter
- [Link to the project charter](https://github.com/akhilmallepally/pm-s03-g02-project/tree/main/charter_files.charter.md)
+ [Link to the project charter](https://github.com/akhilmallepally/pm-s03-g02-project/tree/main/charter_files/charter.md)
 
 ### Scope
 
