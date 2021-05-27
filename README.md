@@ -5,6 +5,11 @@
   * [Our Team](https://github.com/akhilmallepally/pm-s03-g02-project#our-team)
   * [Project Charter](https://github.com/akhilmallepally/pm-s03-g02-project#project-charter)
   * [Scope](https://github.com/akhilmallepally/pm-s03-g02-project#scope)
+    * [Initiation](https://github.com/akhilmallepally/pm-s03-g02-project#1-intiating)
+    * [Planning](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/README.md#2-planning)
+    * [Execution](https://github.com/akhilmallepally/pm-s03-g02-project#3-execution)
+    * [Monitoring and Controlling](https://github.com/akhilmallepally/pm-s03-g02-project#4-monitoring-and-controlling)
+    * [Closing](https://github.com/akhilmallepally/pm-s03-g02-project#5-closing)
   * [Schedule](https://github.com/akhilmallepally/pm-s03-g02-project#schedule)
   * [Budget](https://github.com/akhilmallepally/pm-s03-g02-project#budget)
 
@@ -18,17 +23,6 @@
 <img src="/Images/akhil_mallepally.JPG" alt="akhil" height= "200" width="200"/>  <img src="/Images/chandra_bhanu.jpg" alt="chandra" height= "200" width="200"/>  <img src="/Images/sai_enugula.jpg" alt="sai" height= "200" width="200"/>  <img src="/Images/subash_nethra.jpg" alt="subhash" height= "200" width="200"/>
 
 [Akhil Mallepally](https://github.com/akhilmallepally/)             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                  [Tata Chandra Bhanu](https://github.com/tata1141/)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Sai kiran Enugala](https://github.com/saikiranreddyenugala/)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Subhash Nethra](https://github.com/Subhas19/)
-
-
-
-
-
-
-
-
-
-
-
 
 ### Project Charter
  [Link to the project charter](https://github.com/akhilmallepally/pm-s03-g02-project/tree/main/charter_files/charter.md)
