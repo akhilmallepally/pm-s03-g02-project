@@ -12,7 +12,7 @@
 * Campus Management System
 * We are developing a web application which helps the students, faculty to get all the campus resources into one application.
 
-  This web application contains the user login page. an admin page and inner pages which displays the requirements that students and faculty can get from the campus resources.
+  This web application contains the user login page. an admin page and inner pages which displays the requirements that students and faculty can get from the campus resources. This acts as a Single sign-on.
 
 ### Our Team
 
