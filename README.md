@@ -12,7 +12,7 @@
 * Campus Management System
 * We are developing a web application which helps the students, faculty to get all the campus resources into one application.
 
-  This app contains the user login page. an admin page and inner pages which displays the requirements that students and faculty can get from the campus resources.
+  This web application contains the user login page. an admin page and inner pages which displays the requirements that students and faculty can get from the campus resources.
 
 ### Our Team
 
@@ -96,6 +96,6 @@ Total project value is $70,000 <br>
 Total project cost is $51,520 <br>
 Estimated profits is $18,480 <br>
 
-![Budget](/budget/img.PNG)
+![budget](/budget/img.PNG)
 
 [Find the detailed budget here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/budget/budget.xlsx)
