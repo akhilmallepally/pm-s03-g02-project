@@ -87,5 +87,6 @@ Total project cost is $51,520 <br>
 Estimated profits is $18,480 <br>
 
 ![budget](/budget/img.PNG)
+![budget](Images/schedule ss2.PNG)
 
 [Find the detailed budget here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/budget/budget.xlsx)
