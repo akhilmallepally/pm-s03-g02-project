@@ -79,8 +79,8 @@
  
  Duration : 14 Weeks
  
- ![](budget/scheduless1.PNG)
- ![](Images/schedule ss1.PNG)
+ ![](Images/scheduless1.PNG)
+ ![](Images/scheduless2.PNG)
 
  [Find the detailed schedule here](schedule.mpp)
  
