@@ -87,7 +87,7 @@ Total project value is $70,000 <br>
 Total project cost is $51,520 <br>
 Estimated profits is $18,480 <br>
 
-
+![budget](Images/scheduless1.PNG)
 ![budget](Images/scheduless2.PNG)
 
 [Find the detailed budget here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/budget/budget.xlsx)
