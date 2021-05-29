@@ -25,6 +25,9 @@
 [Akhil Mallepally](https://github.com/akhilmallepally/)             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                  [Tata Chandra Bhanu](https://github.com/tata1141/)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Sai kiran Enugala](https://github.com/saikiranreddyenugala/)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Subhash Nethra](https://github.com/Subhas19/)
 
 ### Project Charter
+
+The project charter briefly comrpises of the objectives, team and budget information of our project.
+
  [Link to the project charter](https://github.com/akhilmallepally/pm-s03-g02-project/tree/main/charter_files/charter.md)
 
 ### Scope
