@@ -20,7 +20,7 @@
 **Team:** 
 | Name | Role | Contact Information |
 | ------------------ | ---- | ------------------- |
-| Sai kiran Enugula | Project Manager | S542041@nwmissouri.edu |
-| Subash Nethra Vishnumolakala | Scrum Master | S543698@nwmissouri.edu |
-| Chandra bhanu Tata | Developer | S542405@nwmissouri.edu |
-| Akhil Kumar Mallepally | Designer | S542403@nwmissouri.edu |
+| [Sai kiran Enugala](https://github.com/saikiranreddyenugala/) | Project Manager | S542041@nwmissouri.edu |
+| [Subhash Nethra](https://github.com/Subhas19/) | Scrum Master | S543698@nwmissouri.edu |
+| [Tata Chandra Bhanu](https://github.com/tata1141/) | Developer | S542405@nwmissouri.edu |
+| [Akhil Mallepally](https://github.com/akhilmallepally/) | Designer | S542403@nwmissouri.edu |
