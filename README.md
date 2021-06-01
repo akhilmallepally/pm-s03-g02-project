@@ -90,9 +90,9 @@ The project charter briefly comprises of the objectives, team and budget informa
  [Find the detailed schedule here](schedule.mpp)
  
 ### Budget
-Total project value is $70,000 <br>
+<i>Total project value is $70,000 <br>
 Total project cost is $51,520 <br>
-Estimated profits is $18,480 <br>
+Estimated profits is $18,480 <br></i>
 
 ![](budget/img.PNG)
 
