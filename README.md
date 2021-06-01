@@ -16,7 +16,9 @@
 ### Our Project
 * Campus Management System
 * We are developing a web application which helps the students, faculty to get all the campus resources into one application.</br>
-  This web application contains the user login page. an admin page and inner pages which displays the requirements that students and faculty can get from the campus resources. If there is no registered user, an authentication error is displayed. This acts as a single sign-on for every resource that is available digitally in the campus. 
+  This web application contains the user login page. An admin page and inner pages which displays the requirements that students and faculty can get from the campus resources.</br> If there is no registered user, an authentication error is displayed. 
+  
+  This acts as a single sign-on for every resource that is available digitally in the campus.
 
 ### Our Team
 
@@ -28,7 +30,7 @@
 
 The project charter briefly comprises of the objectives, team and budget information of our project.
 
- [Link to the project charter](https://github.com/akhilmallepally/pm-s03-g02-project/tree/main/charter_files/charter.md)
+ [Link to the project charter ](https://github.com/akhilmallepally/pm-s03-g02-project/tree/main/charter_files/charter.md)
 
 ### Scope
 
