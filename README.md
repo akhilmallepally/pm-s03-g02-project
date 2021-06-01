@@ -26,7 +26,7 @@
 
 ### Project Charter
 
-The project charter briefly comrpises of the objectives, team and budget information of our project.
+The project charter briefly comprises of the objectives, team and budget information of our project.
 
  [Link to the project charter](https://github.com/akhilmallepally/pm-s03-g02-project/tree/main/charter_files/charter.md)
 
