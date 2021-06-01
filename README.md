@@ -78,11 +78,11 @@ The project charter briefly comprises of the objectives, team and budget informa
  [Find the WBS sheet here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/scope/wbs.mpp)
 
 ### Schedule
- Start Date : 08-18-2021
+ Start Date : ###08-18-2021
  
- End Date : 11-24-2021
+ End Date : ###11-24-2021
  
- Duration : 14-Weeks
+ Duration : ###14-Weeks
  
  ![](Images/scheduless1.PNG)
  ![](Images/scheduless2.PNG)
