@@ -22,7 +22,7 @@
 
 ### Our Team
 
-<img src="/Images/subash_nethra.jpg" alt="subhash" height= "200" width="200"/> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  <img src="/Images/sai_enugula.jpg" alt="sai" height= "200" width="200"/> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  <img src="/Images/chandra_bhanu.jpg" alt="chandra" height= "200" width="200"/> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/akhil_mallepally.JPG" alt="akhil" height= "200" width="200"/>
+<img src="/Images/subash_nethra.jpg" alt="subhash" height= "200" width="200"/> &nbsp; &nbsp;&nbsp; &nbsp;  <img src="/Images/sai_enugula.jpg" alt="sai" height= "200" width="200"/> &nbsp; &nbsp;&nbsp; &nbsp;  <img src="/Images/chandra_bhanu.jpg" alt="chandra" height= "200" width="200"/> &nbsp;  &nbsp; &nbsp; &nbsp; <img src="/Images/akhil_mallepally.JPG" alt="akhil" height= "200" width="200"/>
 
 [Subhash Nethra](https://github.com/Subhas19/)     &nbsp; &nbsp;&nbsp; &nbsp;       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          [Sai kiran Enugala](https://github.com/saikiranreddyenugala/) &nbsp; &nbsp;&nbsp; &nbsp;          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Tata Chandra Bhanu](https://github.com/tata1141/) &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Akhil Mallepally](https://github.com/akhilmallepally/)
 
