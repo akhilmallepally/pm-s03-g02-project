@@ -24,7 +24,7 @@
 
 <img src="/Images/subash_nethra.jpg" alt="subhash" height= "200" width="200"/>  <img src="/Images/sai_enugula.jpg" alt="sai" height= "200" width="200"/> <img src="/Images/chandra_bhanu.jpg" alt="chandra" height= "200" width="200"/> <img src="/Images/akhil_mallepally.JPG" alt="akhil" height= "200" width="200"/>
 
-
+[Subhash Nethra](https://github.com/Subhas19/)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;         [Sai kiran Enugala](https://github.com/saikiranreddyenugala/) &nbsp; &nbsp; &nbsp; &nbsp;        &nbsp; &nbsp;    [Tata Chandra Bhanu](https://github.com/tata1141/) &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; [Akhil Mallepally](https://github.com/akhilmallepally/)
 
 ### Project Charter
 
@@ -78,11 +78,11 @@ The project charter briefly comprises of the objectives, team and budget informa
  [Find the WBS sheet here](https://github.com/akhilmallepally/pm-s03-g02-project/blob/main/scope/wbs.mpp)
 
 ### Schedule
- Start Date : ###08-18-2021
+ Start Date : 08-18-2021
  
- End Date : ###11-24-2021
+ End Date : 11-24-2021
  
- Duration : ###14-Weeks
+ Duration : 14-Weeks
  
  ![](Images/scheduless1.PNG)
  ![](Images/scheduless2.PNG)
